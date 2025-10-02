@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\bin\Debug\net8.0\lab-3-mastermind-aadendonaldson.exe
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\bin\Debug\net8.0\lab-3-mastermind-aadendonaldson.deps.json
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\bin\Debug\net8.0\lab-3-mastermind-aadendonaldson.runtimeconfig.json
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\bin\Debug\net8.0\lab-3-mastermind-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\bin\Debug\net8.0\lab-3-mastermind-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.AssemblyInfo.cs
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.sourcelink.json
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\refint\lab-3-mastermind-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\lab-3-mastermind-aadendonaldson.genruntimeconfig.cache
+C:\Users\User\Desktop\my-code-dir\lab-3-mastermind-aadendonaldson\obj\Debug\net8.0\ref\lab-3-mastermind-aadendonaldson.dll
