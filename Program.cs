@@ -8,12 +8,11 @@ Console.WriteLine("I have chosen 4 letters between 'a' and 'g'; they are also ra
 string secretCode = "adec";
 const int length = 4;
 const string lettersAllowed = "abcdefg";
-int timesAround = 0;
+int timesAround = 1;
 
 while (true)
 {
-    int loopNumber = timesAround + 1;
-    Console.WriteLine("Guess " + loopNumber + ": Please, guess a sequence of 4 lowercase letters with no repeats.");
+    Console.WriteLine("Guess " + timesAround + ": Please, guess a sequence of 4 lowercase letters with no repeats.");
     string guess = Console.ReadLine()!;
     if (guess == null || guess.Length != length || !IsValidGuess(guess, lettersAllowed))
     {
@@ -22,7 +21,7 @@ while (true)
     }
     if (guess == secretCode)
     {
-        Console.Write("You got it!!! Hip, hip, hooray. Now get out a here");
+        Console.Write("You got it!!! Hip, hip, hooray. It took you " + timesAround + " times to get it! Now get out a here");
         break;
     }
 
@@ -58,6 +57,7 @@ while (true)
     }
     Console.WriteLine($" {rightSpot} in the correct position");
     Console.WriteLine($" {rightLetterWrongSpot} is in the wrong position");
+    timesAround++;
 }
 static bool IsValidGuess(string guess, string allowed)
 {
