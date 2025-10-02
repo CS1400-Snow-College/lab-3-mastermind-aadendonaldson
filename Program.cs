@@ -3,8 +3,7 @@ using System.Data;
 using System.Formats.Asn1;
 
 // Aaden Donaldson, 10/1/25, MasterMind
-
-Console.Clear();
+Console.WriteLine("Welcome kind sir, we have have a game for you. This game is made by making many loops and nesting other loops inside of them. There is also some conditional statements. We also make some characters and variables.");
 Console.WriteLine("I have chosen 4 letters between 'a' and 'g'; they are also ranged in a particular order. Your job is to guess the letters and put them in the right order.");
 string secretCode = "adec";
 const int length = 4;
